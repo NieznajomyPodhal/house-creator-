@@ -1,0 +1,4 @@
+<meta>
+<script src='creator.lua' type='client' cache='false' />
+<script src='creator_s.lua' type='server' />
+</meta>
